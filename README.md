@@ -15,3 +15,6 @@ cd ig-osint
 python igosint.py
 
 ```
+
+## Daemon Tech X
+<a href="https://github.com/DaemonTechX">DaemonTechX<a>
