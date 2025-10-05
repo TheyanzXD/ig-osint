@@ -10,11 +10,11 @@ git clone https://github.com/TheyanzXD/ig-osint.git
 cd ig-osint
 ```
 
-# $) Jalankan script
+# $ Jalankan script
 ```
 python igosint.py
 
 ```
 
-## Daemon Tech X
+## © Daemon Tech X
 <a href="https://github.com/DaemonTechX">DaemonTechX<a>
